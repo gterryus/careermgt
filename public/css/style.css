@@ -1,0 +1,31 @@
+.navbar-brand{
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand>.brand-caption>p{
+    margin: 0;
+}
+
+.navbar-brand>.brand-container{
+    width: 80px;
+    margin-right: 12px;
+}
+
+.navbar-brand>.brand-container>.brand{
+    width: 100%;
+}
+
+
+.navbar-brand>.brand-caption{
+    line-height: 1.2;
+}
+
+.navbar-brand>.brand-caption>.title{
+    font-weight: Bold;
+    margin-bottom: 10px;
+}
+
+.navbar-brand>.brand-caption>.caption{
+    color: #9c9c9c
+}
